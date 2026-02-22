@@ -91,11 +91,10 @@ Desktop system for managing cargo transportation via truck and train. Led MySQL 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yafet2557&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yafet2557&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yafet2557&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
